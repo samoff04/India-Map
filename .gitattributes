@@ -1,1 +1,3 @@
 *.java linguist-language=Java linguist-detectable=true
+*.md linguist-detectable=false
+*.gitignore linguist-detectable=false
