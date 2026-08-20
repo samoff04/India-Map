@@ -23,6 +23,7 @@ A compact Java program that generates an ASCII-art representation of the **map o
 India-Map/
 ├── IndiaMap.java
 ├── README.md
+├── .gitattributes
 └── .gitignore
 ~~~
 
